@@ -38,6 +38,8 @@ header{
     display: flex;
     list-style-type: none;
     padding: 15px;
+    min-width: 300px;
+    max-width: 900px;
     height: 10px;
     font-weight: bold;
     background-color: var(--cor4);
